@@ -1,3 +1,3 @@
 # Keeper-App
 
-An app to create sticky notes: https://eylhn.csb.app/
+A ReactJS web application to create sticky notes: https://eylhn.csb.app/
